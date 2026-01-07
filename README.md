@@ -1,5 +1,3 @@
-# Customer_Behaviour_Analysis
-
 # 🛍️ Customer Shopping Behavior Analysis
 
 **End-to-End Data Analytics Project (Python | SQL | PostgreSQL | Power BI)**
